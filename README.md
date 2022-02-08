@@ -27,3 +27,5 @@ Tools
 4. NLTK for text manipulation.
 5. Streamlit
 
+![Capture](https://user-images.githubusercontent.com/90758723/153012907-8d2579c7-7daa-4a71-9d4b-eb9f67058742.PNG)
+
